@@ -1,2 +1,5 @@
 # hello-world
-It's a repository
+
+I'm trying to get started with GitHub
+
+end
